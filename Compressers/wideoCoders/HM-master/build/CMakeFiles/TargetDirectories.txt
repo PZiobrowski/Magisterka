@@ -1,0 +1,15 @@
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/Lib/TLibCommon/CMakeFiles/TLibCommon.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/Lib/TLibCommonAnalyser/CMakeFiles/TLibCommonAnalyser.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/Lib/TLibDecoder/CMakeFiles/TLibDecoder.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/Lib/TLibDecoderAnalyser/CMakeFiles/TLibDecoderAnalyser.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/Lib/TLibEncoder/CMakeFiles/TLibEncoder.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/Lib/Utilities/CMakeFiles/Utilities.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/App/TAppDecoder/CMakeFiles/TAppDecoder.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/App/TAppDecoderAnalyser/CMakeFiles/TAppDecoderAnalyser.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/App/TAppEncoder/CMakeFiles/TAppEncoder.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/App/TAppMCTSExtractor/CMakeFiles/MCTSExtractor.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/App/Parcat/CMakeFiles/parcat.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/App/SEIRemovalApp/CMakeFiles/SEIRemovalApp.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/build/source/App/SEIFilmGrainApp/CMakeFiles/SEIFilmGrainApp.dir

@@ -1,0 +1,22 @@
+﻿  Building Custom Rule C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/source/Lib/TLibEncoder/CMakeLists.txt
+  NALwrite.cpp
+  SEIEncoder.cpp
+  SEIwrite.cpp
+  SyntaxElementWriter.cpp
+  TEncBinCoderCABAC.cpp
+  TEncBinCoderCABACCounter.cpp
+  TEncCavlc.cpp
+  TEncCu.cpp
+  TEncEntropy.cpp
+  TEncGOP.cpp
+  TEncPic.cpp
+  TEncPreanalyzer.cpp
+  TEncRateCtrl.cpp
+  TEncSampleAdaptiveOffset.cpp
+  TEncSbac.cpp
+  TEncSearch.cpp
+  TEncSlice.cpp
+  TEncTemporalFilter.cpp
+  TEncTop.cpp
+  WeightPredAnalysis.cpp
+  TLibEncoder.vcxproj -> C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\HM-master\lib\vs16\msvc-19.29\x86_64\debug\TLibEncoder.lib

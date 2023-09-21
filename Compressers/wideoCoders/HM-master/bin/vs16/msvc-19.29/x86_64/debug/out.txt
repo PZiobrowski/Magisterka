@@ -1,0 +1,3 @@
+Comparing files film.yuv and FILMDEC.YUV
+FC: no differences encountered
+

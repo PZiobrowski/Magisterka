@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\source\App\vvencFFapp\EncApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\source\App\vvencFFapp\encmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\source\App\vvencFFapp\EncApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\source\App\vvencFFapp\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\source\App\vvencFFapp\resource_version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\source\App\vvencFFapp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\source\App\vvencFFapp\vvencFFapp.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FF7EDE9C-1252-3B81-A5DC-0F6F5403E2B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{5737DDF7-0F1E-34C9-84A5-8BC3E551E257}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CDF2352C-3643-3DE2-A9BE-044169016885}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

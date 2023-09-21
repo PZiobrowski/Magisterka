@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\App\vvdecapp\vvdecapp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\App\vvdecapp\CmdLineParser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\App\vvdecapp\MD5StreamBuf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\App\vvdecapp\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\App\vvdecapp\resource_version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\App\vvdecapp\vvdecHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\App\vvdecapp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\App\vvdecapp\vvdecapp.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2A348EE8-D24A-36CA-AA50-8F52BFA4EB50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D3526EBD-F1F9-3631-9604-86FF9EE85790}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4C25340E-188D-3C8E-8924-EB1F52F60513}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

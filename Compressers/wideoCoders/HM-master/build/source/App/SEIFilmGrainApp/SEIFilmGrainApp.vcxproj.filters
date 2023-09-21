@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\HM-master\source\App\SEIFilmGrainApp\SEIFilmGrainApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\HM-master\source\App\SEIFilmGrainApp\SEIFilmGrainAppCfg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\HM-master\source\App\SEIFilmGrainApp\SEIFilmGrainMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\HM-master\source\App\SEIFilmGrainApp\SEIFilmGrainApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\HM-master\source\App\SEIFilmGrainApp\SEIFilmGrainAppCfg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\HM-master\source\App\SEIFilmGrainApp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FCF83072-9994-3B6A-BE45-52298AA02642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{69858CFC-ED0D-35B7-BEE9-1FB17F3ACDA4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

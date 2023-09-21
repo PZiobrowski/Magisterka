@@ -1,0 +1,13 @@
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/CMakeFiles/test-ok.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/CMakeFiles/test-all.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/CMakeFiles/INSTALL.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/source/Lib/vvdec/CMakeFiles/vvdec_x86_simd.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/source/Lib/vvdec/CMakeFiles/vvdec.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/source/Lib/vvdec/CMakeFiles/RUN_TESTS.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/source/Lib/vvdec/CMakeFiles/INSTALL.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/source/App/vvdecapp/CMakeFiles/vvdecapp.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/source/App/vvdecapp/CMakeFiles/RUN_TESTS.dir
+C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/source/App/vvdecapp/CMakeFiles/INSTALL.dir

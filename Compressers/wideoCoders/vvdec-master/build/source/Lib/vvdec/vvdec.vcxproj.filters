@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\AdaptiveLoopFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\BitStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Buffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\ChromaFormat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\CodingStructure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\ContextModelling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Contexts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\InterPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\InterpolationFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\IntraPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\LoopFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\MatrixIntraPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Mv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\ParameterSetManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\PicListManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\PicYuvMD5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Picture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Quant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\RdCost.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Reshape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Rom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\RomLFNST.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\RomTr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\SEI_internal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\SampleAdaptiveOffset.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Slice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\StatCounter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\TrQuant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\TrQuant_EMT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Unit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\UnitPartitioner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\UnitTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\WeightPrediction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\dtrace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\AnnexBread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\BinDecoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\CABACReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\DecCu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\DecLib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\DecLibParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\DecLibRecon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\DecSlice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\NALread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\SEIread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\VLCReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\Utilities\ThreadPool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\vvdec\vvdec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\vvdec\vvdecimpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\vvdec\wasm_bindings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\CommonDefX86.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\InitX86.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\AdaptiveLoopFilter.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\BitStream.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Buffer.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\ChromaFormat.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\CodingStructure.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Common.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\CommonDef.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\ContextModelling.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Contexts.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\InterPrediction.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\InterpolationFilter.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\IntraPrediction.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\LoopFilter.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\MatrixIntraPrediction.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\MipData.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\MotionInfo.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Mv.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\NAL.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\ParameterSetManager.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\PicListManager.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Picture.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Quant.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\RdCost.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Reshape.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Rom.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\SEI_internal.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\SampleAdaptiveOffset.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Slice.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\StatCounter.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\TimeProfiler.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\TrQuant.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\TrQuant_EMT.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\TypeDef.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\Unit.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\UnitPartitioner.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\UnitTools.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\WeightPrediction.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\dtrace.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\dtrace_buffer.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\dtrace_codingstruct.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\dtrace_next.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\AnnexBread.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\BinDecoder.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\CABACReader.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\DecCu.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\DecLib.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\DecLibParser.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\DecLibRecon.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\DecSlice.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\NALread.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\SEIread.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\DecoderLib\VLCReader.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\Utilities\ThreadPool.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\vvdec\resource.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\vvdec\resource_version.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\vvdec\vvdecimpl.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\vvdec\wasm_bindings.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\AdaptiveLoopFilterX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\BufferX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\CommonDefX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\FixMissingIntrin.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\InterPredX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\InterpolationFilterX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\IntraPredX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\LoopFilterX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\PictureX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\QuantX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\RdCostX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\SampleAdaptiveOffsetX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\CommonLib\x86\TrafoX86.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\libmd5\MD5.h">
+      <Filter>Header Files\private</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\include\vvdec\sei.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\include\vvdec\vvdec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\include\vvdec\vvdecDecl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\vvdec\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\VisualStudio\common.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+    <Natvis Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\VisualStudio\static_vector.natvis">
+      <Filter>Natvis Files</Filter>
+    </Natvis>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\AdaptiveLoopFilter_sse41.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Buffer_sse41.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\InterPred_sse41.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\InterpolationFilter_sse41.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\IntraPred_sse41.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\LoopFilter_sse41.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Picture_sse41.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Quant_sse41.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\RdCost_sse41.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\SampleAdaptiveOffset_sse41.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Trafo_sse41.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\AdaptiveLoopFilter_sse42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Buffer_sse42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\InterPred_sse42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\InterpolationFilter_sse42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\IntraPred_sse42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\LoopFilter_sse42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Picture_sse42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Quant_sse42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\RdCost_sse42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\SampleAdaptiveOffset_sse42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Trafo_sse42.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\AdaptiveLoopFilter_avx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Buffer_avx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\InterPred_avx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\InterpolationFilter_avx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\IntraPred_avx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\LoopFilter_avx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Picture_avx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Quant_avx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\RdCost_avx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\SampleAdaptiveOffset_avx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Trafo_avx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\AdaptiveLoopFilter_avx2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Buffer_avx2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\InterPred_avx2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\InterpolationFilter_avx2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\IntraPred_avx2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\LoopFilter_avx2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Picture_avx2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Quant_avx2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\RdCost_avx2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\SampleAdaptiveOffset_avx2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\$(Configuration)\Trafo_avx2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\source\Lib\vvdec\vvdec.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2A348EE8-D24A-36CA-AA50-8F52BFA4EB50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\private">
+      <UniqueIdentifier>{044F2D5A-0DC4-324F-9EF4-981A180E8F7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Natvis Files">
+      <UniqueIdentifier>{1A7EA226-9BE7-349F-B681-4E9A5CDF3F97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{F5789ECA-22E2-39C5-9162-885B45AFAC06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4C25340E-188D-3C8E-8924-EB1F52F60513}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

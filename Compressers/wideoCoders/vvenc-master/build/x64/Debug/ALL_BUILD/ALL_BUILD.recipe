@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\bin\debug-static\vvencFFapp.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\bin\debug-static\vvencapp.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\bin\debug-static\vvencinterfacetest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\bin\debug-static\vvenclibtest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvenc-master\build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

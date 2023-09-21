@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/VVCSoftware_VTM-VTM-5.2/source/Lib/Utilities/CMakeLists.txt
+  ColourRemapping.cpp
+  VideoIOYuv.cpp
+  program_options_lite.cpp
+  Utilities.vcxproj -> C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\VVCSoftware_VTM-VTM-5.2\lib\vs16\msvc-19.29\x86_64\debug\Utilities.lib

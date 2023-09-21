@@ -1,0 +1,22 @@
+﻿  Building Custom Rule C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/VVCSoftware_VTM-VTM-5.2/source/Lib/EncoderLib/CMakeLists.txt
+  AQp.cpp
+  BinEncoder.cpp
+  CABACWriter.cpp
+  EncAdaptiveLoopFilter.cpp
+  EncCu.cpp
+  EncGOP.cpp
+  EncHRD.cpp
+  EncLib.cpp
+  EncModeCtrl.cpp
+  EncReshape.cpp
+  EncSampleAdaptiveOffset.cpp
+  EncSlice.cpp
+  InterSearch.cpp
+  IntraSearch.cpp
+  NALwrite.cpp
+  RateCtrl.cpp
+  SEIEncoder.cpp
+  SEIwrite.cpp
+  VLCWriter.cpp
+  WeightPredAnalysis.cpp
+  EncoderLib.vcxproj -> C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\VVCSoftware_VTM-VTM-5.2\lib\vs16\msvc-19.29\x86_64\debug\EncoderLib.lib

@@ -1,0 +1,10 @@
+^C:\USERS\PRZZI\ONEDRIVE\PULPIT\MAGISTERKA\COMPRESSERS\WIDEOCODERS\VVCSOFTWARE_VTM-VTM-5.2\SOURCE\APP\ENCODERAPP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/VVCSoftware_VTM-VTM-5.2 -BC:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/VVCSoftware_VTM-VTM-5.2/build --check-stamp-file C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/VVCSoftware_VTM-VTM-5.2/build/source/App/EncoderApp/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

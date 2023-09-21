@@ -1,0 +1,10 @@
+prefix=C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvenc-master/install
+exec_prefix=bin
+libdir=C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvenc-master/install/lib
+includedir=C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvenc-master/install/include
+
+Name: libvvenc
+Description: Fraunhofer Versatile Video Encoder (VVenC)
+Version: 1.9.0
+Libs: -L${libdir} -lvvenc -lstdc++ -lm
+Cflags: -I${includedir}

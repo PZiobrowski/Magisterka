@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/source/Lib/TLibDecoder/CMakeLists.txt
+  AnnexBread.cpp
+  NALread.cpp
+  SEIread.cpp
+  SyntaxElementParser.cpp
+  TDecBinCoderCABAC.cpp
+  TDecCAVLC.cpp
+  TDecConformance.cpp
+  TDecCu.cpp
+  TDecEntropy.cpp
+  TDecGop.cpp
+  TDecSbac.cpp
+  TDecSlice.cpp
+  TDecTop.cpp
+  TLibDecoder.vcxproj -> C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\HM-master\lib\vs16\msvc-19.29\x86_64\debug\TLibDecoder.lib

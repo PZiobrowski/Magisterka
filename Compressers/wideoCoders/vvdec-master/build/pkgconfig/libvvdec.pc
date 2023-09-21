@@ -1,0 +1,10 @@
+prefix=C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/install
+exec_prefix=bin
+libdir=C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/install/lib
+includedir=C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/install/include
+
+Name: libvvdec
+Description: Fraunhofer Versatile Video Decoder (VVdeC)
+Version: 2.1.1
+Libs: -L${libdir} -lvvdec -lstdc++ -lm
+Cflags: -I${includedir}

@@ -1,0 +1,1 @@
+C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\vvdec-master\build\source\Lib\vvdec\vvdec_x86_simd.dir\Debug\vvdec_x86_simd.lib

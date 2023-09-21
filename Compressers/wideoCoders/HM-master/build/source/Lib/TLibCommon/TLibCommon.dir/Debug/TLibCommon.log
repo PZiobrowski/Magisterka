@@ -1,0 +1,32 @@
+﻿  Building Custom Rule C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/HM-master/source/Lib/TLibCommon/CMakeLists.txt
+  ContextModel.cpp
+  ContextModel3DBuffer.cpp
+  Debug.cpp
+  ProfileLevelTierFeatures.cpp
+  SEI.cpp
+  SEIFilmGrainAnalyzer.cpp
+  SEIFilmGrainSynthesizer.cpp
+  TComBitStream.cpp
+  TComCABACTables.cpp
+  TComChromaFormat.cpp
+  TComDataCU.cpp
+  TComInterpolationFilter.cpp
+  TComLoopFilter.cpp
+  TComMotionInfo.cpp
+  TComPattern.cpp
+  TComPic.cpp
+  TComPicSym.cpp
+  TComPicYuv.cpp
+  TComPicYuvMD5.cpp
+  TComPrediction.cpp
+  TComRdCost.cpp
+  TComRdCostWeightPrediction.cpp
+  TComRom.cpp
+  TComSampleAdaptiveOffset.cpp
+  TComSlice.cpp
+  TComTU.cpp
+  TComTrQuant.cpp
+  TComWeightPrediction.cpp
+  TComYuv.cpp
+  libmd5.cpp
+  TLibCommon.vcxproj -> C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\HM-master\lib\vs16\msvc-19.29\x86_64\debug\TLibCommon.lib

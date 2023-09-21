@@ -1,0 +1,10 @@
+^C:\USERS\PRZZI\ONEDRIVE\PULPIT\MAGISTERKA\COMPRESSERS\WIDEOCODERS\VVDEC-MASTER\BUILD\CMAKEFILES\8B9B04E8B76AA7DD02EF6F0EDB993CEA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master -BC:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/przzi/OneDrive/Pulpit/Magisterka/Compressers/wideoCoders/vvdec-master/build/vvdec.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,2 @@
+TAppEncoder -c encoder_intra_main_rext.cfg -i film.yuv -b film.266 -wdt 256 -hgt 256 -f 40
+TAppDecoder -b film.266 -o filmdec.yuv
