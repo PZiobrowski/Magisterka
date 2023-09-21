@@ -1,0 +1,1 @@
+& "C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\Scripts\convertImage.ps1"

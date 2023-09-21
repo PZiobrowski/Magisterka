@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\przzi\OneDrive\Pulpit\Magisterka\Compressers\wideoCoders\HM-master\source\App\TAppEncoder\build\CMakeFiles\860228ac7d671c06dff2c7f1e0d5ba43\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6ED534BA-0BDD-3013-A9D1-197C6DA7D95C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
